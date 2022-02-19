@@ -1,5 +1,5 @@
 # GY30_BH1750
-
+https://github.com/claws/BH1750
 The BH1750 object uses the default high resolution
 continuous mode and then makes a light level reading every second.
 
